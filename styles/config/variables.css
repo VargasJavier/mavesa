@@ -10,3 +10,10 @@
   --black-text1: #1A1818;
   --parraph: #909090;
 }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--font);
+}
